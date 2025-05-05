@@ -1,3 +1,4 @@
+![logo](64e4bb21571af3c19c26b3a2_github.webp)
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Pathan Afroz</h1>
 <h3 align="center">A passionate software engineer from India</h3>
